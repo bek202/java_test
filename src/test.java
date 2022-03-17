@@ -5,10 +5,8 @@ public class test {
         int len, ret, mid, i;
         i = ret = 0;
         len = arr.length;
-        if(len % 2 == 0)
-        {
+        if(arr == null || len % 2 == 0)
             ret = 0;
-        }
         else
         {
             mid = ( len - 1 ) / 2;

@@ -14,7 +14,7 @@ public class test4 {
     }
 
     public static void main(String[] args){
-        System.out.println(f(1234));
+        System.out.println(f(1233));
     }
 }
 
